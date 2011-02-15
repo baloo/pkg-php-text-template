@@ -1,0 +1,5 @@
+php-text-template (1.1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Arthur Gautier (Open Web Solutions) <arthur@ows.fr>  Mon, 31 Jan 2011 10:05:53 +0100
